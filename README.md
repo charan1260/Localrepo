@@ -1,3 +1,4 @@
 # Localrepo
 This is for git fundamnetals 
-16-09-2026 
+Consistency is key
+16-09-20
